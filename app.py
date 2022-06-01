@@ -10,4 +10,4 @@ def pagina_inicial():
     return "7ASO GRUPO 1"
 
 if __name__ == '__main__':
-    app.run()
+    app.run() 
